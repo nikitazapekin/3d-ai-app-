@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState } from 'react';
+ import React, { useRef, useEffect, useState } from 'react';
 import * as THREE from 'three';
 import { MeshBVH } from 'three-mesh-bvh';
 
@@ -345,7 +345,7 @@ const App = () => {
   );
 };
 
-export default App;
+export default App; 
 /* import React, { useRef, useEffect, useState } from 'react';
 import * as THREE from 'three';
 import { MeshBVH } from 'three-mesh-bvh';
